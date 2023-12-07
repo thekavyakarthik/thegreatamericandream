@@ -5,9 +5,10 @@ body {
   background-color: #efe0e6; //EFE0E6
 }
 
-/*.headerTitle {
- 
-}*/
+.headerTitle {
+  transform: scaleX(100vw);
+  transform: scaleY(100vh)
+}
 .family {
 
 }
