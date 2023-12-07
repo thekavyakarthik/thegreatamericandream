@@ -6,6 +6,8 @@ body {
 }
 
 .headerTitle, .footerPicture {
+  position: absolute;
+  bottom: 0;
   max-width: 100%;
   max-height: 100%;
 }
