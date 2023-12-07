@@ -5,7 +5,7 @@ body {
   background-color: #efe0e6;
 }
 
-.headerTitle {
+.headerTitle, .footerPicture {
   max-width: 100%;
   max-height: 100%;
 }
